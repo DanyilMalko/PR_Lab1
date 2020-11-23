@@ -1,0 +1,13 @@
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.exe
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.deps.json
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.runtimeconfig.json
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.runtimeconfig.dev.json
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.dll
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\PR_Lab1.pdb
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.csprojAssemblyReference.cache
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.AssemblyInfoInputs.cache
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.AssemblyInfo.cs
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.csproj.CoreCompileInputs.cache
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.dll
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.pdb
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.genruntimeconfig.cache
