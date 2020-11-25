@@ -11,3 +11,4 @@ D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\net
 D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.dll
 D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.pdb
 D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\obj\Debug\netcoreapp3.1\PR_Lab1.genruntimeconfig.cache
+D:\UNIVER\7semestr\Прийняття рішень\PR_Lab1\PR_Lab1\bin\Debug\netcoreapp3.1\myMatrix.txt

@@ -1,6 +1,8 @@
 ﻿using PR_Lab1.Strategies;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace PR_Lab1
 {
@@ -8,9 +10,7 @@ namespace PR_Lab1
     {
         static void Main(string[] args)
         {
-            int[,] matrix = {{100,80,30 },
-                             {90,90,40},
-                             {50,60,70}};
+            int[,] matrix = GetMatrixFromFile();
             int bestStrategy;
             foreach (var strategy in GenerateStrategies())
             {
@@ -30,6 +30,26 @@ namespace PR_Lab1
                 new GurvicStrategy(),
                 new BaesLaplasStrategy()
             };
+        }
+
+        private static int[,] GetMatrixFromFile()
+        {
+            var directory = System.IO.Directory.GetCurrentDirectory();
+           var allrows =  File
+            .ReadLines($"{directory}\\myMatrix.txt")
+            .Select(line => line.Split(" ").Select(int.Parse).ToList())
+            .ToList();
+
+            var matrix = new int[allrows.Count, allrows[0].Count];
+            for (int row = 0; row != allrows.Count; row++)
+            {
+                for (int col = 0; col != allrows[0].Count; col++)
+                {
+                    matrix[row, col] = allrows[row][col];
+                }
+            }
+
+            return matrix;
         }
     }
 }
